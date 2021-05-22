@@ -1,2 +1,2 @@
 # Sql_Project
-simple_source_veracity 
+this project is a simple test of a source veracity automation using AirFlow, Postgresql, Jupyter Lab
