@@ -1,0 +1,22 @@
+[2021-05-23 09:49:44,904] {taskinstance.py:851} INFO - Dependencies all met for <TaskInstance: Automated_informants_veracity_check.comparison 2021-05-23T09:48:40.579002+00:00 [queued]>
+[2021-05-23 09:49:44,933] {taskinstance.py:851} INFO - Dependencies all met for <TaskInstance: Automated_informants_veracity_check.comparison 2021-05-23T09:48:40.579002+00:00 [queued]>
+[2021-05-23 09:49:44,933] {taskinstance.py:1042} INFO - 
+--------------------------------------------------------------------------------
+[2021-05-23 09:49:44,934] {taskinstance.py:1043} INFO - Starting attempt 1 of 2
+[2021-05-23 09:49:44,934] {taskinstance.py:1044} INFO - 
+--------------------------------------------------------------------------------
+[2021-05-23 09:49:44,950] {taskinstance.py:1063} INFO - Executing <Task(PythonOperator): comparison> on 2021-05-23T09:48:40.579002+00:00
+[2021-05-23 09:49:44,962] {standard_task_runner.py:52} INFO - Started process 46 to run task
+[2021-05-23 09:49:45,674] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'Automated_informants_veracity_check', 'comparison', '2021-05-23T09:48:40.579002+00:00', '--job-id', '24', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/elDagg.py', '--cfg-path', '/tmp/tmpr605bfvs', '--error-file', '/tmp/tmpp64t5qre']
+[2021-05-23 09:49:45,675] {standard_task_runner.py:77} INFO - Job 24: Subtask comparison
+[2021-05-23 09:49:45,746] {logging_mixin.py:104} INFO - Running <TaskInstance: Automated_informants_veracity_check.comparison 2021-05-23T09:48:40.579002+00:00 [running]> on host 16dfb71e69f3
+[2021-05-23 09:49:45,820] {taskinstance.py:1257} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=refai
+AIRFLOW_CTX_DAG_ID=Automated_informants_veracity_check
+AIRFLOW_CTX_TASK_ID=comparison
+AIRFLOW_CTX_EXECUTION_DATE=2021-05-23T09:48:40.579002+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-05-23T09:48:40.579002+00:00
+[2021-05-23 09:49:45,905] {python.py:118} INFO - Done. Returned value was: None
+[2021-05-23 09:49:45,921] {taskinstance.py:1166} INFO - Marking task as SUCCESS. dag_id=Automated_informants_veracity_check, task_id=comparison, execution_date=20210523T094840, start_date=20210523T094944, end_date=20210523T094945
+[2021-05-23 09:49:45,963] {taskinstance.py:1220} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2021-05-23 09:49:45,983] {local_task_job.py:146} INFO - Task exited with return code 0

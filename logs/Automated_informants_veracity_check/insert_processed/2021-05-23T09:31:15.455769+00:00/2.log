@@ -1,0 +1,35 @@
+[2021-05-23 09:33:54,078] {taskinstance.py:851} INFO - Dependencies all met for <TaskInstance: Automated_informants_veracity_check.insert_processed 2021-05-23T09:31:15.455769+00:00 [queued]>
+[2021-05-23 09:33:54,177] {taskinstance.py:851} INFO - Dependencies all met for <TaskInstance: Automated_informants_veracity_check.insert_processed 2021-05-23T09:31:15.455769+00:00 [queued]>
+[2021-05-23 09:33:54,178] {taskinstance.py:1042} INFO - 
+--------------------------------------------------------------------------------
+[2021-05-23 09:33:54,178] {taskinstance.py:1043} INFO - Starting attempt 2 of 2
+[2021-05-23 09:33:54,178] {taskinstance.py:1044} INFO - 
+--------------------------------------------------------------------------------
+[2021-05-23 09:33:54,211] {taskinstance.py:1063} INFO - Executing <Task(PythonOperator): insert_processed> on 2021-05-23T09:31:15.455769+00:00
+[2021-05-23 09:33:54,223] {standard_task_runner.py:52} INFO - Started process 56 to run task
+[2021-05-23 09:33:54,257] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'Automated_informants_veracity_check', 'insert_processed', '2021-05-23T09:31:15.455769+00:00', '--job-id', '16', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/elDagg.py', '--cfg-path', '/tmp/tmpnysg3rz6', '--error-file', '/tmp/tmpalw45mhj']
+[2021-05-23 09:33:54,260] {standard_task_runner.py:77} INFO - Job 16: Subtask insert_processed
+[2021-05-23 09:33:54,490] {logging_mixin.py:104} INFO - Running <TaskInstance: Automated_informants_veracity_check.insert_processed 2021-05-23T09:31:15.455769+00:00 [running]> on host 3adeec45fab4
+[2021-05-23 09:33:54,762] {taskinstance.py:1257} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=refai
+AIRFLOW_CTX_DAG_ID=Automated_informants_veracity_check
+AIRFLOW_CTX_TASK_ID=insert_processed
+AIRFLOW_CTX_EXECUTION_DATE=2021-05-23T09:31:15.455769+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-05-23T09:31:15.455769+00:00
+[2021-05-23 09:33:54,766] {taskinstance.py:1455} ERROR - name 'df' is not defined
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/taskinstance.py", line 1112, in _run_raw_task
+    self._prepare_and_execute_task_with_callbacks(context, task)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/taskinstance.py", line 1285, in _prepare_and_execute_task_with_callbacks
+    result = self._execute_task(context, task_copy)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/taskinstance.py", line 1315, in _execute_task
+    result = task_copy.execute(context=context)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 117, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 128, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/elDagg.py", line 51, in inserttheProcessedTransformants
+    df.to_sql('processed_informants', engine, if_exists='replace', index=False)
+NameError: name 'df' is not defined
+[2021-05-23 09:33:54,771] {taskinstance.py:1503} INFO - Marking task as FAILED. dag_id=Automated_informants_veracity_check, task_id=insert_processed, execution_date=20210523T093115, start_date=20210523T093354, end_date=20210523T093354
+[2021-05-23 09:33:54,894] {local_task_job.py:146} INFO - Task exited with return code 1

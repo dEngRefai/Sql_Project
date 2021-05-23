@@ -1,0 +1,460 @@
+[2021-05-23 09:14:36,744] {scheduler_job.py:182} INFO - Started process (PID=6620) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:14:36,750] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:14:36,752] {logging_mixin.py:104} INFO - [2021-05-23 09:14:36,751] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:14:38,980] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:14:39,018] {logging_mixin.py:104} INFO - [2021-05-23 09:14:39,017] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:14:39,034] {logging_mixin.py:104} INFO - [2021-05-23 09:14:39,034] {dag.py:1837} INFO - Creating ORM DAG for Automated_informants_veracity_check
+[2021-05-23 09:14:39,043] {logging_mixin.py:104} INFO - [2021-05-23 09:14:39,043] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:13:39.042718+00:00
+[2021-05-23 09:14:39,058] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 2.342 seconds
+[2021-05-23 09:16:32,763] {scheduler_job.py:182} INFO - Started process (PID=35) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:16:32,778] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:16:32,779] {logging_mixin.py:104} INFO - [2021-05-23 09:16:32,779] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:16:41,899] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:16:41,958] {logging_mixin.py:104} INFO - [2021-05-23 09:16:41,958] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:16:42,002] {logging_mixin.py:104} INFO - [2021-05-23 09:16:42,002] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:15:42.002217+00:00
+[2021-05-23 09:16:42,014] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 9.273 seconds
+[2021-05-23 09:17:12,105] {scheduler_job.py:182} INFO - Started process (PID=74) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:17:12,124] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:17:12,125] {logging_mixin.py:104} INFO - [2021-05-23 09:17:12,125] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:17:13,870] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:17:13,910] {logging_mixin.py:104} INFO - [2021-05-23 09:17:13,909] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:17:13,933] {logging_mixin.py:104} INFO - [2021-05-23 09:17:13,933] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:16:13.933194+00:00
+[2021-05-23 09:17:13,962] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 1.863 seconds
+[2021-05-23 09:17:44,243] {scheduler_job.py:182} INFO - Started process (PID=101) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:17:44,245] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:17:44,246] {logging_mixin.py:104} INFO - [2021-05-23 09:17:44,246] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:17:44,956] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:17:44,976] {logging_mixin.py:104} INFO - [2021-05-23 09:17:44,976] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:17:44,991] {logging_mixin.py:104} INFO - [2021-05-23 09:17:44,991] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:16:44.991195+00:00
+[2021-05-23 09:17:45,003] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.767 seconds
+[2021-05-23 09:18:15,078] {scheduler_job.py:182} INFO - Started process (PID=128) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:18:15,079] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:18:15,080] {logging_mixin.py:104} INFO - [2021-05-23 09:18:15,080] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:18:15,463] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:18:15,482] {logging_mixin.py:104} INFO - [2021-05-23 09:18:15,481] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:18:15,496] {logging_mixin.py:104} INFO - [2021-05-23 09:18:15,496] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:17:15.496008+00:00
+[2021-05-23 09:18:15,505] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.432 seconds
+[2021-05-23 09:18:46,194] {scheduler_job.py:182} INFO - Started process (PID=155) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:18:46,195] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:18:46,196] {logging_mixin.py:104} INFO - [2021-05-23 09:18:46,196] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:18:46,643] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:18:46,663] {logging_mixin.py:104} INFO - [2021-05-23 09:18:46,663] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:18:46,677] {logging_mixin.py:104} INFO - [2021-05-23 09:18:46,677] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:17:46.677228+00:00
+[2021-05-23 09:18:46,687] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.499 seconds
+[2021-05-23 09:19:17,259] {scheduler_job.py:182} INFO - Started process (PID=182) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:19:17,261] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:19:17,262] {logging_mixin.py:104} INFO - [2021-05-23 09:19:17,262] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:19:17,743] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:19:17,766] {logging_mixin.py:104} INFO - [2021-05-23 09:19:17,766] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:19:17,781] {logging_mixin.py:104} INFO - [2021-05-23 09:19:17,781] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:18:46.677228+00:00
+[2021-05-23 09:19:17,789] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.534 seconds
+[2021-05-23 09:19:48,532] {scheduler_job.py:182} INFO - Started process (PID=209) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:19:48,533] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:19:48,534] {logging_mixin.py:104} INFO - [2021-05-23 09:19:48,534] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:19:48,976] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:19:48,998] {logging_mixin.py:104} INFO - [2021-05-23 09:19:48,997] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:19:49,015] {logging_mixin.py:104} INFO - [2021-05-23 09:19:49,015] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:18:49.015515+00:00
+[2021-05-23 09:19:49,027] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.501 seconds
+[2021-05-23 09:20:19,128] {scheduler_job.py:182} INFO - Started process (PID=236) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:20:19,130] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:20:19,131] {logging_mixin.py:104} INFO - [2021-05-23 09:20:19,130] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:20:19,560] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:20:19,579] {logging_mixin.py:104} INFO - [2021-05-23 09:20:19,579] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:20:19,594] {logging_mixin.py:104} INFO - [2021-05-23 09:20:19,594] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:19:19.593874+00:00
+[2021-05-23 09:20:19,604] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.481 seconds
+[2021-05-23 09:20:50,321] {scheduler_job.py:182} INFO - Started process (PID=263) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:20:50,323] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:20:50,324] {logging_mixin.py:104} INFO - [2021-05-23 09:20:50,324] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:20:50,867] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:20:50,893] {logging_mixin.py:104} INFO - [2021-05-23 09:20:50,893] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:20:50,912] {logging_mixin.py:104} INFO - [2021-05-23 09:20:50,912] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:19:50.912628+00:00
+[2021-05-23 09:20:50,926] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.610 seconds
+[2021-05-23 09:21:21,037] {scheduler_job.py:182} INFO - Started process (PID=290) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:21:21,040] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:21:21,041] {logging_mixin.py:104} INFO - [2021-05-23 09:21:21,041] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:21:21,498] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:21:21,520] {logging_mixin.py:104} INFO - [2021-05-23 09:21:21,520] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:21:21,536] {logging_mixin.py:104} INFO - [2021-05-23 09:21:21,535] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:20:21.535826+00:00
+[2021-05-23 09:21:21,545] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.512 seconds
+[2021-05-23 09:21:52,322] {scheduler_job.py:182} INFO - Started process (PID=317) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:21:52,325] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:21:52,326] {logging_mixin.py:104} INFO - [2021-05-23 09:21:52,326] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:21:53,006] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:21:53,038] {logging_mixin.py:104} INFO - [2021-05-23 09:21:53,038] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:21:53,060] {logging_mixin.py:104} INFO - [2021-05-23 09:21:53,059] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:20:53.059666+00:00
+[2021-05-23 09:21:53,112] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.803 seconds
+[2021-05-23 09:22:23,472] {scheduler_job.py:182} INFO - Started process (PID=344) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:22:23,474] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:22:23,475] {logging_mixin.py:104} INFO - [2021-05-23 09:22:23,475] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:22:24,138] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:22:24,169] {logging_mixin.py:104} INFO - [2021-05-23 09:22:24,169] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:22:24,195] {logging_mixin.py:104} INFO - [2021-05-23 09:22:24,194] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:21:24.194708+00:00
+[2021-05-23 09:22:24,207] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.741 seconds
+[2021-05-23 09:22:55,059] {scheduler_job.py:182} INFO - Started process (PID=371) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:22:55,060] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:22:55,061] {logging_mixin.py:104} INFO - [2021-05-23 09:22:55,061] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:22:55,661] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:22:55,687] {logging_mixin.py:104} INFO - [2021-05-23 09:22:55,686] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:22:55,707] {logging_mixin.py:104} INFO - [2021-05-23 09:22:55,707] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:21:55.707241+00:00
+[2021-05-23 09:22:55,719] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.665 seconds
+[2021-05-23 09:23:26,302] {scheduler_job.py:182} INFO - Started process (PID=398) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:23:26,304] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:23:26,306] {logging_mixin.py:104} INFO - [2021-05-23 09:23:26,305] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:23:27,033] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:23:27,065] {logging_mixin.py:104} INFO - [2021-05-23 09:23:27,064] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:23:27,091] {logging_mixin.py:104} INFO - [2021-05-23 09:23:27,091] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:22:55.707241+00:00
+[2021-05-23 09:23:27,101] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.805 seconds
+[2021-05-23 09:23:57,916] {scheduler_job.py:182} INFO - Started process (PID=425) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:23:57,918] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:23:57,919] {logging_mixin.py:104} INFO - [2021-05-23 09:23:57,919] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:23:58,932] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:23:58,961] {logging_mixin.py:104} INFO - [2021-05-23 09:23:58,961] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:23:58,983] {logging_mixin.py:104} INFO - [2021-05-23 09:23:58,983] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:23:55.707241+00:00
+[2021-05-23 09:23:58,996] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 1.085 seconds
+[2021-05-23 09:24:29,719] {scheduler_job.py:182} INFO - Started process (PID=452) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:24:29,721] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:24:29,722] {logging_mixin.py:104} INFO - [2021-05-23 09:24:29,722] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:24:30,430] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:24:30,458] {logging_mixin.py:104} INFO - [2021-05-23 09:24:30,458] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:24:30,478] {logging_mixin.py:104} INFO - [2021-05-23 09:24:30,478] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:23:55.707241+00:00
+[2021-05-23 09:24:30,487] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.773 seconds
+[2021-05-23 09:25:00,627] {scheduler_job.py:182} INFO - Started process (PID=479) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:25:00,628] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:25:00,629] {logging_mixin.py:104} INFO - [2021-05-23 09:25:00,629] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:25:01,226] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:25:01,250] {logging_mixin.py:104} INFO - [2021-05-23 09:25:01,250] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:25:01,269] {logging_mixin.py:104} INFO - [2021-05-23 09:25:01,269] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:24:01.268986+00:00
+[2021-05-23 09:25:01,280] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.658 seconds
+[2021-05-23 09:25:31,388] {scheduler_job.py:182} INFO - Started process (PID=506) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:25:31,390] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:25:31,391] {logging_mixin.py:104} INFO - [2021-05-23 09:25:31,391] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:25:31,973] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:25:31,998] {logging_mixin.py:104} INFO - [2021-05-23 09:25:31,997] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:25:32,019] {logging_mixin.py:104} INFO - [2021-05-23 09:25:32,019] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:24:32.019604+00:00
+[2021-05-23 09:25:32,030] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.650 seconds
+[2021-05-23 09:26:02,110] {scheduler_job.py:182} INFO - Started process (PID=533) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:26:02,112] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:26:02,113] {logging_mixin.py:104} INFO - [2021-05-23 09:26:02,113] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:26:02,703] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:26:02,728] {logging_mixin.py:104} INFO - [2021-05-23 09:26:02,728] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:26:02,748] {logging_mixin.py:104} INFO - [2021-05-23 09:26:02,748] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:25:02.748223+00:00
+[2021-05-23 09:26:02,760] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.655 seconds
+[2021-05-23 09:26:32,808] {scheduler_job.py:182} INFO - Started process (PID=560) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:26:32,809] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:26:32,811] {logging_mixin.py:104} INFO - [2021-05-23 09:26:32,810] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:26:33,466] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:26:33,496] {logging_mixin.py:104} INFO - [2021-05-23 09:26:33,496] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:26:33,519] {logging_mixin.py:104} INFO - [2021-05-23 09:26:33,518] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:25:33.518672+00:00
+[2021-05-23 09:26:33,530] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.728 seconds
+[2021-05-23 09:27:04,742] {scheduler_job.py:182} INFO - Started process (PID=587) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:27:04,744] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:27:04,744] {logging_mixin.py:104} INFO - [2021-05-23 09:27:04,744] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:27:19,731] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:27:21,197] {logging_mixin.py:104} INFO - [2021-05-23 09:27:21,196] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:27:21,221] {logging_mixin.py:104} INFO - [2021-05-23 09:27:21,221] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:26:21.220792+00:00
+[2021-05-23 09:27:21,234] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 16.496 seconds
+[2021-05-23 09:27:51,554] {scheduler_job.py:182} INFO - Started process (PID=614) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:27:51,556] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:27:51,558] {logging_mixin.py:104} INFO - [2021-05-23 09:27:51,558] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:27:52,188] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:27:52,217] {logging_mixin.py:104} INFO - [2021-05-23 09:27:52,216] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:27:52,237] {logging_mixin.py:104} INFO - [2021-05-23 09:27:52,237] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:26:52.237030+00:00
+[2021-05-23 09:27:52,247] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.699 seconds
+[2021-05-23 09:28:22,296] {scheduler_job.py:182} INFO - Started process (PID=646) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:28:22,298] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:28:22,299] {logging_mixin.py:104} INFO - [2021-05-23 09:28:22,298] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:28:22,911] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:28:22,938] {logging_mixin.py:104} INFO - [2021-05-23 09:28:22,938] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:28:22,957] {logging_mixin.py:104} INFO - [2021-05-23 09:28:22,957] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:27:22.957503+00:00
+[2021-05-23 09:28:22,970] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.679 seconds
+[2021-05-23 09:28:53,036] {scheduler_job.py:182} INFO - Started process (PID=674) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:28:53,039] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:28:53,041] {logging_mixin.py:104} INFO - [2021-05-23 09:28:53,040] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:28:53,646] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:28:53,672] {logging_mixin.py:104} INFO - [2021-05-23 09:28:53,671] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:28:53,692] {logging_mixin.py:104} INFO - [2021-05-23 09:28:53,692] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:27:53.692446+00:00
+[2021-05-23 09:28:53,709] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.680 seconds
+[2021-05-23 09:29:24,370] {scheduler_job.py:182} INFO - Started process (PID=702) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:29:24,372] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:29:24,373] {logging_mixin.py:104} INFO - [2021-05-23 09:29:24,373] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:29:25,044] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:29:25,071] {logging_mixin.py:104} INFO - [2021-05-23 09:29:25,071] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:29:25,092] {logging_mixin.py:104} INFO - [2021-05-23 09:29:25,091] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:28:25.091699+00:00
+[2021-05-23 09:29:25,104] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.741 seconds
+[2021-05-23 09:29:55,927] {scheduler_job.py:182} INFO - Started process (PID=732) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:29:55,928] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:29:55,929] {logging_mixin.py:104} INFO - [2021-05-23 09:29:55,929] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:29:56,789] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:29:56,882] {logging_mixin.py:104} INFO - [2021-05-23 09:29:56,882] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:29:56,901] {logging_mixin.py:104} INFO - [2021-05-23 09:29:56,901] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:28:56.901257+00:00
+[2021-05-23 09:29:56,926] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 1.005 seconds
+[2021-05-23 09:31:00,320] {scheduler_job.py:182} INFO - Started process (PID=29) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:31:00,341] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:31:00,343] {logging_mixin.py:104} INFO - [2021-05-23 09:31:00,343] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:31:10,218] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:31:10,318] {logging_mixin.py:104} INFO - [2021-05-23 09:31:10,318] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:31:10,410] {logging_mixin.py:104} INFO - [2021-05-23 09:31:10,410] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:30:10.410183+00:00
+[2021-05-23 09:31:10,467] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 10.152 seconds
+[2021-05-23 09:31:41,517] {scheduler_job.py:182} INFO - Started process (PID=71) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:31:41,531] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:31:41,542] {logging_mixin.py:104} INFO - [2021-05-23 09:31:41,542] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:31:44,041] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:31:44,098] {logging_mixin.py:104} INFO - [2021-05-23 09:31:44,098] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:31:44,142] {logging_mixin.py:104} INFO - [2021-05-23 09:31:44,142] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:30:44.142201+00:00
+[2021-05-23 09:31:44,174] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 2.693 seconds
+[2021-05-23 09:32:14,586] {scheduler_job.py:182} INFO - Started process (PID=101) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:32:14,588] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:32:14,589] {logging_mixin.py:104} INFO - [2021-05-23 09:32:14,589] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:32:15,406] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:32:15,436] {logging_mixin.py:104} INFO - [2021-05-23 09:32:15,435] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:32:15,456] {logging_mixin.py:104} INFO - [2021-05-23 09:32:15,455] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:31:15.455769+00:00
+[2021-05-23 09:32:15,466] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.899 seconds
+[2021-05-23 09:32:46,379] {scheduler_job.py:182} INFO - Started process (PID=128) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:32:46,381] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:32:46,382] {logging_mixin.py:104} INFO - [2021-05-23 09:32:46,382] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:32:47,736] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:32:47,774] {logging_mixin.py:104} INFO - [2021-05-23 09:32:47,774] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:32:47,802] {logging_mixin.py:104} INFO - [2021-05-23 09:32:47,802] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:32:15.455769+00:00
+[2021-05-23 09:32:47,816] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 1.453 seconds
+[2021-05-23 09:33:17,998] {scheduler_job.py:182} INFO - Started process (PID=155) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:33:18,006] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:33:18,008] {logging_mixin.py:104} INFO - [2021-05-23 09:33:18,008] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:33:18,948] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:33:18,994] {logging_mixin.py:104} INFO - [2021-05-23 09:33:18,994] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:33:19,038] {logging_mixin.py:104} INFO - [2021-05-23 09:33:19,037] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:33:15.455769+00:00
+[2021-05-23 09:33:19,059] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 1.088 seconds
+[2021-05-23 09:33:49,400] {scheduler_job.py:182} INFO - Started process (PID=182) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:33:49,403] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:33:49,404] {logging_mixin.py:104} INFO - [2021-05-23 09:33:49,404] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:33:50,246] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:33:50,293] {logging_mixin.py:104} INFO - [2021-05-23 09:33:50,293] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:33:50,322] {logging_mixin.py:104} INFO - [2021-05-23 09:33:50,322] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:33:15.455769+00:00
+[2021-05-23 09:33:50,342] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.951 seconds
+[2021-05-23 09:34:20,468] {scheduler_job.py:182} INFO - Started process (PID=209) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:34:20,470] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:34:20,471] {logging_mixin.py:104} INFO - [2021-05-23 09:34:20,471] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:34:21,144] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:34:21,176] {logging_mixin.py:104} INFO - [2021-05-23 09:34:21,176] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:34:21,197] {logging_mixin.py:104} INFO - [2021-05-23 09:34:21,197] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:33:21.197429+00:00
+[2021-05-23 09:34:21,211] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.750 seconds
+[2021-05-23 09:34:52,093] {scheduler_job.py:182} INFO - Started process (PID=236) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:34:52,094] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:34:52,095] {logging_mixin.py:104} INFO - [2021-05-23 09:34:52,094] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:34:52,468] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:34:52,488] {logging_mixin.py:104} INFO - [2021-05-23 09:34:52,488] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:34:52,504] {logging_mixin.py:104} INFO - [2021-05-23 09:34:52,503] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:33:52.503843+00:00
+[2021-05-23 09:34:52,514] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.425 seconds
+[2021-05-23 09:35:23,283] {scheduler_job.py:182} INFO - Started process (PID=263) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:35:23,284] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:35:23,285] {logging_mixin.py:104} INFO - [2021-05-23 09:35:23,285] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:35:23,717] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:35:23,740] {logging_mixin.py:104} INFO - [2021-05-23 09:35:23,740] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:35:23,758] {logging_mixin.py:104} INFO - [2021-05-23 09:35:23,758] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:34:23.758322+00:00
+[2021-05-23 09:35:23,770] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.492 seconds
+[2021-05-23 09:35:54,579] {scheduler_job.py:182} INFO - Started process (PID=290) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:35:54,580] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:35:54,581] {logging_mixin.py:104} INFO - [2021-05-23 09:35:54,581] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:35:54,963] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:35:54,981] {logging_mixin.py:104} INFO - [2021-05-23 09:35:54,981] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:35:54,994] {logging_mixin.py:104} INFO - [2021-05-23 09:35:54,994] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:34:54.993925+00:00
+[2021-05-23 09:35:55,002] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.427 seconds
+[2021-05-23 09:36:25,033] {scheduler_job.py:182} INFO - Started process (PID=317) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:36:25,035] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:36:25,035] {logging_mixin.py:104} INFO - [2021-05-23 09:36:25,035] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:36:25,572] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:36:25,598] {logging_mixin.py:104} INFO - [2021-05-23 09:36:25,598] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:36:25,617] {logging_mixin.py:104} INFO - [2021-05-23 09:36:25,617] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:35:25.617411+00:00
+[2021-05-23 09:36:25,628] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.599 seconds
+[2021-05-23 09:36:56,429] {scheduler_job.py:182} INFO - Started process (PID=344) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:36:56,430] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:36:56,431] {logging_mixin.py:104} INFO - [2021-05-23 09:36:56,430] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:36:56,817] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:36:56,837] {logging_mixin.py:104} INFO - [2021-05-23 09:36:56,837] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:36:56,852] {logging_mixin.py:104} INFO - [2021-05-23 09:36:56,852] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:35:56.852408+00:00
+[2021-05-23 09:36:56,861] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.437 seconds
+[2021-05-23 09:37:27,600] {scheduler_job.py:182} INFO - Started process (PID=371) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:37:27,601] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:37:27,602] {logging_mixin.py:104} INFO - [2021-05-23 09:37:27,601] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:37:28,006] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:37:28,055] {logging_mixin.py:104} INFO - [2021-05-23 09:37:28,054] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:37:28,075] {logging_mixin.py:104} INFO - [2021-05-23 09:37:28,075] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:36:28.074933+00:00
+[2021-05-23 09:37:28,091] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.495 seconds
+[2021-05-23 09:37:58,983] {scheduler_job.py:182} INFO - Started process (PID=398) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:37:58,984] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:37:58,985] {logging_mixin.py:104} INFO - [2021-05-23 09:37:58,985] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:37:59,494] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:37:59,514] {logging_mixin.py:104} INFO - [2021-05-23 09:37:59,514] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:37:59,529] {logging_mixin.py:104} INFO - [2021-05-23 09:37:59,529] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:36:59.529086+00:00
+[2021-05-23 09:37:59,538] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.559 seconds
+[2021-05-23 09:38:31,086] {scheduler_job.py:182} INFO - Started process (PID=425) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:38:31,088] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:38:31,089] {logging_mixin.py:104} INFO - [2021-05-23 09:38:31,089] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:38:44,158] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:39:41,058] {scheduler_job.py:182} INFO - Started process (PID=33) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:39:41,059] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:39:41,060] {logging_mixin.py:104} INFO - [2021-05-23 09:39:41,060] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:39:49,925] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:39:50,027] {logging_mixin.py:104} INFO - [2021-05-23 09:39:50,027] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:39:50,098] {logging_mixin.py:104} INFO - [2021-05-23 09:39:50,098] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:38:50.098522+00:00
+[2021-05-23 09:39:50,167] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 9.134 seconds
+[2021-05-23 09:40:21,107] {scheduler_job.py:182} INFO - Started process (PID=73) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:40:21,109] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:40:21,144] {logging_mixin.py:104} INFO - [2021-05-23 09:40:21,144] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:40:22,812] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:40:22,859] {logging_mixin.py:104} INFO - [2021-05-23 09:40:22,859] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:40:22,902] {logging_mixin.py:104} INFO - [2021-05-23 09:40:22,902] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:39:22.902048+00:00
+[2021-05-23 09:40:22,923] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 1.857 seconds
+[2021-05-23 09:40:53,402] {scheduler_job.py:182} INFO - Started process (PID=101) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:40:53,403] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:40:53,404] {logging_mixin.py:104} INFO - [2021-05-23 09:40:53,404] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:40:53,980] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:40:54,005] {logging_mixin.py:104} INFO - [2021-05-23 09:40:54,004] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:40:54,025] {logging_mixin.py:104} INFO - [2021-05-23 09:40:54,025] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:39:54.025064+00:00
+[2021-05-23 09:40:54,036] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.641 seconds
+[2021-05-23 09:41:24,804] {scheduler_job.py:182} INFO - Started process (PID=128) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:41:24,814] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:41:24,815] {logging_mixin.py:104} INFO - [2021-05-23 09:41:24,815] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:41:25,492] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:41:25,523] {logging_mixin.py:104} INFO - [2021-05-23 09:41:25,522] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:41:25,547] {logging_mixin.py:104} INFO - [2021-05-23 09:41:25,547] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:40:25.546863+00:00
+[2021-05-23 09:41:25,561] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.762 seconds
+[2021-05-23 09:41:56,130] {scheduler_job.py:182} INFO - Started process (PID=155) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:41:56,131] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:41:56,132] {logging_mixin.py:104} INFO - [2021-05-23 09:41:56,132] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:41:56,810] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:41:56,833] {logging_mixin.py:104} INFO - [2021-05-23 09:41:56,833] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:41:56,855] {logging_mixin.py:104} INFO - [2021-05-23 09:41:56,855] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:41:25.546863+00:00
+[2021-05-23 09:41:56,864] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.741 seconds
+[2021-05-23 09:42:27,521] {scheduler_job.py:182} INFO - Started process (PID=182) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:42:27,523] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:42:27,524] {logging_mixin.py:104} INFO - [2021-05-23 09:42:27,524] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:42:28,101] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:42:28,146] {logging_mixin.py:104} INFO - [2021-05-23 09:42:28,146] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:42:28,165] {logging_mixin.py:104} INFO - [2021-05-23 09:42:28,165] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:42:25.546863+00:00
+[2021-05-23 09:42:28,175] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.659 seconds
+[2021-05-23 09:42:58,875] {scheduler_job.py:182} INFO - Started process (PID=209) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:42:58,876] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:42:58,878] {logging_mixin.py:104} INFO - [2021-05-23 09:42:58,877] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:42:59,526] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:42:59,555] {logging_mixin.py:104} INFO - [2021-05-23 09:42:59,555] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:42:59,577] {logging_mixin.py:104} INFO - [2021-05-23 09:42:59,577] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:42:25.546863+00:00
+[2021-05-23 09:42:59,588] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.720 seconds
+[2021-05-23 09:43:30,322] {scheduler_job.py:182} INFO - Started process (PID=236) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:43:30,323] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:43:30,324] {logging_mixin.py:104} INFO - [2021-05-23 09:43:30,324] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:43:31,318] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:43:31,370] {logging_mixin.py:104} INFO - [2021-05-23 09:43:31,370] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:43:31,396] {logging_mixin.py:104} INFO - [2021-05-23 09:43:31,396] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:42:31.396452+00:00
+[2021-05-23 09:43:31,414] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 1.101 seconds
+[2021-05-23 09:44:01,969] {scheduler_job.py:182} INFO - Started process (PID=263) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:44:01,971] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:44:01,972] {logging_mixin.py:104} INFO - [2021-05-23 09:44:01,972] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:44:02,335] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:44:02,352] {logging_mixin.py:104} INFO - [2021-05-23 09:44:02,352] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:44:02,365] {logging_mixin.py:104} INFO - [2021-05-23 09:44:02,365] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:43:02.365312+00:00
+[2021-05-23 09:44:02,373] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.410 seconds
+[2021-05-23 09:44:32,751] {scheduler_job.py:182} INFO - Started process (PID=290) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:44:32,753] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:44:32,756] {logging_mixin.py:104} INFO - [2021-05-23 09:44:32,755] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:44:33,908] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:44:33,958] {logging_mixin.py:104} INFO - [2021-05-23 09:44:33,958] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:44:34,006] {logging_mixin.py:104} INFO - [2021-05-23 09:44:34,006] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:43:34.006072+00:00
+[2021-05-23 09:44:34,039] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 1.304 seconds
+[2021-05-23 09:45:04,534] {scheduler_job.py:182} INFO - Started process (PID=317) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:45:04,535] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:45:04,536] {logging_mixin.py:104} INFO - [2021-05-23 09:45:04,536] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:45:04,946] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:45:04,967] {logging_mixin.py:104} INFO - [2021-05-23 09:45:04,966] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:45:04,980] {logging_mixin.py:104} INFO - [2021-05-23 09:45:04,980] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:44:04.980271+00:00
+[2021-05-23 09:45:04,989] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.461 seconds
+[2021-05-23 09:45:35,595] {scheduler_job.py:182} INFO - Started process (PID=344) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:45:35,604] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:45:35,614] {logging_mixin.py:104} INFO - [2021-05-23 09:45:35,614] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:45:36,131] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:45:36,183] {logging_mixin.py:104} INFO - [2021-05-23 09:45:36,183] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:45:36,208] {logging_mixin.py:104} INFO - [2021-05-23 09:45:36,207] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:44:36.207501+00:00
+[2021-05-23 09:45:36,223] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.634 seconds
+[2021-05-23 09:46:06,952] {scheduler_job.py:182} INFO - Started process (PID=371) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:46:06,953] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:46:06,954] {logging_mixin.py:104} INFO - [2021-05-23 09:46:06,954] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:46:07,757] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:46:07,783] {logging_mixin.py:104} INFO - [2021-05-23 09:46:07,782] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:46:07,802] {logging_mixin.py:104} INFO - [2021-05-23 09:46:07,802] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:45:07.802520+00:00
+[2021-05-23 09:46:07,814] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.866 seconds
+[2021-05-23 09:46:38,428] {scheduler_job.py:182} INFO - Started process (PID=398) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:46:38,429] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:46:38,430] {logging_mixin.py:104} INFO - [2021-05-23 09:46:38,430] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:46:38,891] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:46:38,915] {logging_mixin.py:104} INFO - [2021-05-23 09:46:38,915] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:46:38,931] {logging_mixin.py:104} INFO - [2021-05-23 09:46:38,931] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:45:38.930929+00:00
+[2021-05-23 09:46:38,942] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.518 seconds
+[2021-05-23 09:47:09,397] {scheduler_job.py:182} INFO - Started process (PID=425) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:47:09,398] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:47:09,400] {logging_mixin.py:104} INFO - [2021-05-23 09:47:09,399] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:47:09,868] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:47:09,890] {logging_mixin.py:104} INFO - [2021-05-23 09:47:09,890] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:47:09,906] {logging_mixin.py:104} INFO - [2021-05-23 09:47:09,906] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:46:09.906675+00:00
+[2021-05-23 09:47:09,916] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.526 seconds
+[2021-05-23 09:47:40,058] {scheduler_job.py:182} INFO - Started process (PID=452) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:47:40,059] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:47:40,060] {logging_mixin.py:104} INFO - [2021-05-23 09:47:40,060] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:47:40,521] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:47:40,559] {logging_mixin.py:104} INFO - [2021-05-23 09:47:40,558] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:47:40,579] {logging_mixin.py:104} INFO - [2021-05-23 09:47:40,579] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:46:40.579002+00:00
+[2021-05-23 09:47:40,596] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.544 seconds
+[2021-05-23 09:48:10,912] {scheduler_job.py:182} INFO - Started process (PID=479) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:48:10,913] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:48:10,914] {logging_mixin.py:104} INFO - [2021-05-23 09:48:10,914] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:48:11,328] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:48:11,347] {logging_mixin.py:104} INFO - [2021-05-23 09:48:11,347] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:48:11,360] {logging_mixin.py:104} INFO - [2021-05-23 09:48:11,360] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:47:40.579002+00:00
+[2021-05-23 09:48:11,369] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.462 seconds
+[2021-05-23 09:48:42,283] {scheduler_job.py:182} INFO - Started process (PID=506) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:48:42,285] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:48:42,286] {logging_mixin.py:104} INFO - [2021-05-23 09:48:42,285] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:48:42,840] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:48:42,859] {logging_mixin.py:104} INFO - [2021-05-23 09:48:42,859] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:48:42,873] {logging_mixin.py:104} INFO - [2021-05-23 09:48:42,873] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:48:40.579002+00:00
+[2021-05-23 09:48:42,880] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.603 seconds
+[2021-05-23 09:49:12,911] {scheduler_job.py:182} INFO - Started process (PID=533) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:49:12,912] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:49:12,913] {logging_mixin.py:104} INFO - [2021-05-23 09:49:12,913] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:49:13,321] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:49:13,338] {logging_mixin.py:104} INFO - [2021-05-23 09:49:13,338] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:49:13,355] {logging_mixin.py:104} INFO - [2021-05-23 09:49:13,355] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:48:40.579002+00:00
+[2021-05-23 09:49:13,370] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.464 seconds
+[2021-05-23 09:49:45,363] {scheduler_job.py:182} INFO - Started process (PID=560) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:49:45,367] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:49:45,370] {logging_mixin.py:104} INFO - [2021-05-23 09:49:45,370] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:49:45,942] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:49:45,972] {logging_mixin.py:104} INFO - [2021-05-23 09:49:45,972] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:49:45,990] {logging_mixin.py:104} INFO - [2021-05-23 09:49:45,990] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:49:40.579002+00:00
+[2021-05-23 09:49:46,005] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 1.716 seconds
+[2021-05-23 09:50:16,330] {scheduler_job.py:182} INFO - Started process (PID=587) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:50:16,331] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:50:16,332] {logging_mixin.py:104} INFO - [2021-05-23 09:50:16,332] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:50:16,700] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:50:16,723] {logging_mixin.py:104} INFO - [2021-05-23 09:50:16,722] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:50:16,741] {logging_mixin.py:104} INFO - [2021-05-23 09:50:16,741] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:49:40.579002+00:00
+[2021-05-23 09:50:16,748] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.422 seconds
+[2021-05-23 09:50:47,069] {scheduler_job.py:182} INFO - Started process (PID=614) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:50:47,070] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:50:47,071] {logging_mixin.py:104} INFO - [2021-05-23 09:50:47,071] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:50:47,556] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:50:47,577] {logging_mixin.py:104} INFO - [2021-05-23 09:50:47,577] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:50:47,591] {logging_mixin.py:104} INFO - [2021-05-23 09:50:47,591] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:50:40.579002+00:00
+[2021-05-23 09:50:47,599] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.535 seconds
+[2021-05-23 09:51:18,637] {scheduler_job.py:182} INFO - Started process (PID=643) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:51:18,640] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:51:18,642] {logging_mixin.py:104} INFO - [2021-05-23 09:51:18,641] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:51:19,232] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:51:19,256] {logging_mixin.py:104} INFO - [2021-05-23 09:51:19,256] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:51:19,273] {logging_mixin.py:104} INFO - [2021-05-23 09:51:19,273] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:50:40.579002+00:00
+[2021-05-23 09:51:19,281] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.659 seconds
+[2021-05-23 09:51:50,253] {scheduler_job.py:182} INFO - Started process (PID=672) to work on /opt/airflow/dags/elDagg.py
+[2021-05-23 09:51:50,256] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/elDagg.py for tasks to queue
+[2021-05-23 09:51:50,256] {logging_mixin.py:104} INFO - [2021-05-23 09:51:50,256] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:51:50,700] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['Automated_informants_veracity_check']) retrieved from /opt/airflow/dags/elDagg.py
+[2021-05-23 09:51:50,719] {logging_mixin.py:104} INFO - [2021-05-23 09:51:50,719] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-23 09:51:50,732] {logging_mixin.py:104} INFO - [2021-05-23 09:51:50,732] {dag.py:2273} INFO - Setting next_dagrun for Automated_informants_veracity_check to 2021-05-23 09:50:50.732061+00:00
+[2021-05-23 09:51:50,741] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/elDagg.py took 0.492 seconds
